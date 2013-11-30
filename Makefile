@@ -13,3 +13,5 @@ install: all
 
 clean:
 	rm -f javac
+
+distclean: clean
